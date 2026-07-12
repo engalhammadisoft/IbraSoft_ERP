@@ -1,7 +1,7 @@
 {
-  "name": "IbraSoft ERP v12",
-  "short_name": "IbraSoft",
-  "description": "نظام إبراهيم سوفت _ لإدارة موارد المؤسسات الاحترافي",
+  "name": "IBraSoft ERP",
+  "short_name": "IBraSoft",
+  "description": "نظام إدارة موارد المؤسسات الاحترافي - مؤسسة إبراهيم سوفت للبرمجة",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#020617",
